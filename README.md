@@ -1,6 +1,6 @@
 # 💻 C++ Projects
 
-A growing collection of my C++ programs—from foundational school assignments to more advanced applications focused on system-level logic and performance.
+A growing collection of my C++ programs, from foundational school assignments to more advanced applications focused on system-level logic and performance.
 
 ---
 
@@ -26,7 +26,6 @@ Each project includes:
 - Description and objective
 - How to compile and run
 - Sample output or screenshots
-- Key takeaways
 
 ---
 
